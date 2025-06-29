@@ -1,6 +1,8 @@
 # MaxWM 🧠✨
 **MaxWM** is a work-in-progress **X11-only window manager** built from scratch with love, C, and chaos.
 
+> ⚠️ **Heads up!** Development is slow because I'm just one person — sometimes coding, sometimes gaming, sometimes flat-out horizontal. Updates will come, but patience is key. 😅
+
 > Think of it like your WM — but with bones, brains, and a config file that *actually listens to you*.
 
 ---
