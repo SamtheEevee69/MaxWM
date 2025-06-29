@@ -18,6 +18,7 @@
 - 🦴 **GameMaker-Inspired “Bone” Logic** – Windows behave with logic chains (future idea).
 - 📐 **Border + Gap Control** – Riced? MaxWM says yes.
 - 🧃 **Lightweight** – Minimal deps, low RAM, high vibes.
+- 🔳 **Focus Mode** – One keybind to hide colors, mute distractions, and lock into a clean, zero-noise workspace.
 
 ---
 
